@@ -2,6 +2,8 @@
 
 简洁的静态生日月历，适配手机与电脑。职能组支持多选，日期范围为 2020 年 1 月至 2100 年 12 月。不使用数据库、OpenAI API、外部字体或第三方页面脚本。
 
+公开网址：<https://red-birthday-calendar.pages.dev> 。Cloudflare Pages 已连接本仓库，生产分支为 `main`，发布目录为 `public`。
+
 ## 本地使用
 
 需要 Python 3.10+，数据处理无需安装第三方库。Windows 启动脚本也会识别本机 Codex 附带的 Python。自动同步另需安装 Git，并完成 GitHub 登录。
