@@ -1,0 +1,426 @@
+{
+  "groups": [
+    "内部建设组",
+    "分校考评组",
+    "宣介联络组",
+    "总校培训组"
+  ],
+  "members": [
+    {
+      "name": "时惠雪",
+      "group": "宣介联络组",
+      "month": 1,
+      "day": 11
+    },
+    {
+      "name": "邱致中",
+      "group": "分校考评组",
+      "month": 1,
+      "day": 12
+    },
+    {
+      "name": "李一萱",
+      "group": "宣介联络组",
+      "month": 1,
+      "day": 15
+    },
+    {
+      "name": "浦皓宁",
+      "group": "宣介联络组",
+      "month": 1,
+      "day": 15
+    },
+    {
+      "name": "丁彦灵",
+      "group": "总校培训组",
+      "month": 1,
+      "day": 16
+    },
+    {
+      "name": "唐亮",
+      "group": "内部建设组",
+      "month": 1,
+      "day": 21
+    },
+    {
+      "name": "李民欣",
+      "group": "分校考评组",
+      "month": 1,
+      "day": 22
+    },
+    {
+      "name": "王梓豪",
+      "group": "分校考评组",
+      "month": 1,
+      "day": 22
+    },
+    {
+      "name": "糜丰安",
+      "group": "内部建设组",
+      "month": 2,
+      "day": 5
+    },
+    {
+      "name": "周奕妤",
+      "group": "宣介联络组",
+      "month": 2,
+      "day": 10
+    },
+    {
+      "name": "陈慧婷",
+      "group": "宣介联络组",
+      "month": 2,
+      "day": 12
+    },
+    {
+      "name": "高睿茗",
+      "group": "宣介联络组",
+      "month": 2,
+      "day": 17
+    },
+    {
+      "name": "寿子聪",
+      "group": "分校考评组",
+      "month": 2,
+      "day": 27
+    },
+    {
+      "name": "沈瑞煊",
+      "group": "分校考评组",
+      "month": 3,
+      "day": 3
+    },
+    {
+      "name": "裴家耀",
+      "group": "分校考评组",
+      "month": 3,
+      "day": 8
+    },
+    {
+      "name": "霍瑞欣",
+      "group": "内部建设组",
+      "month": 3,
+      "day": 15
+    },
+    {
+      "name": "崔可涵",
+      "group": "内部建设组",
+      "month": 3,
+      "day": 22
+    },
+    {
+      "name": "龚文戈",
+      "group": "分校考评组",
+      "month": 3,
+      "day": 29
+    },
+    {
+      "name": "杨开铄",
+      "group": "分校考评组",
+      "month": 4,
+      "day": 6
+    },
+    {
+      "name": "朱佳琦",
+      "group": "分校考评组",
+      "month": 4,
+      "day": 13
+    },
+    {
+      "name": "刘秋池",
+      "group": "总校培训组",
+      "month": 4,
+      "day": 22
+    },
+    {
+      "name": "潘曾浩",
+      "group": "分校考评组",
+      "month": 4,
+      "day": 24
+    },
+    {
+      "name": "王睿",
+      "group": "总校培训组",
+      "month": 4,
+      "day": 28
+    },
+    {
+      "name": "黄天佑",
+      "group": "内部建设组",
+      "month": 5,
+      "day": 3
+    },
+    {
+      "name": "熊梓钦",
+      "group": "内部建设组",
+      "month": 5,
+      "day": 9
+    },
+    {
+      "name": "张宸瑄",
+      "group": "内部建设组",
+      "month": 6,
+      "day": 4
+    },
+    {
+      "name": "崔寒希",
+      "group": "分校考评组",
+      "month": 6,
+      "day": 11
+    },
+    {
+      "name": "丁铭瑶",
+      "group": "总校培训组",
+      "month": 6,
+      "day": 20
+    },
+    {
+      "name": "邹文卿",
+      "group": "内部建设组",
+      "month": 6,
+      "day": 21
+    },
+    {
+      "name": "张起洋",
+      "group": "总校培训组",
+      "month": 6,
+      "day": 26
+    },
+    {
+      "name": "贺楷睿",
+      "group": "分校考评组",
+      "month": 6,
+      "day": 29
+    },
+    {
+      "name": "代婧书",
+      "group": "总校培训组",
+      "month": 6,
+      "day": 29
+    },
+    {
+      "name": "徐彭源",
+      "group": "宣介联络组",
+      "month": 7,
+      "day": 4
+    },
+    {
+      "name": "陈艾其",
+      "group": "内部建设组",
+      "month": 7,
+      "day": 8
+    },
+    {
+      "name": "王佳莹",
+      "group": "宣介联络组",
+      "month": 7,
+      "day": 14
+    },
+    {
+      "name": "徐欣宇",
+      "group": "分校考评组",
+      "month": 7,
+      "day": 18
+    },
+    {
+      "name": "刘楚懿",
+      "group": "总校培训组",
+      "month": 7,
+      "day": 20
+    },
+    {
+      "name": "晏语瞳",
+      "group": "宣介联络组",
+      "month": 7,
+      "day": 27
+    },
+    {
+      "name": "黎仁皓",
+      "group": "总校培训组",
+      "month": 8,
+      "day": 1
+    },
+    {
+      "name": "查若妍",
+      "group": "内部建设组",
+      "month": 8,
+      "day": 2
+    },
+    {
+      "name": "王延祯",
+      "group": "总校培训组",
+      "month": 8,
+      "day": 2
+    },
+    {
+      "name": "王念琛",
+      "group": "内部建设组",
+      "month": 8,
+      "day": 6
+    },
+    {
+      "name": "刘昕晨",
+      "group": "总校培训组",
+      "month": 8,
+      "day": 8
+    },
+    {
+      "name": "王舒誉",
+      "group": "总校培训组",
+      "month": 8,
+      "day": 10
+    },
+    {
+      "name": "郑域",
+      "group": "总校培训组",
+      "month": 8,
+      "day": 10
+    },
+    {
+      "name": "刘建聪",
+      "group": "分校考评组",
+      "month": 8,
+      "day": 12
+    },
+    {
+      "name": "郑柏轩",
+      "group": "内部建设组",
+      "month": 8,
+      "day": 16
+    },
+    {
+      "name": "宋丞轩",
+      "group": "分校考评组",
+      "month": 8,
+      "day": 16
+    },
+    {
+      "name": "蔡天娇",
+      "group": "宣介联络组",
+      "month": 8,
+      "day": 19
+    },
+    {
+      "name": "唐颖",
+      "group": "分校考评组",
+      "month": 8,
+      "day": 31
+    },
+    {
+      "name": "张亮",
+      "group": "宣介联络组",
+      "month": 9,
+      "day": 4
+    },
+    {
+      "name": "陈煜熙",
+      "group": "宣介联络组",
+      "month": 9,
+      "day": 6
+    },
+    {
+      "name": "金子馨",
+      "group": "分校考评组",
+      "month": 9,
+      "day": 10
+    },
+    {
+      "name": "王石",
+      "group": "分校考评组",
+      "month": 9,
+      "day": 15
+    },
+    {
+      "name": "方向",
+      "group": "宣介联络组",
+      "month": 9,
+      "day": 21
+    },
+    {
+      "name": "李镇赫",
+      "group": "分校考评组",
+      "month": 9,
+      "day": 29
+    },
+    {
+      "name": "崔亦达",
+      "group": "宣介联络组",
+      "month": 9,
+      "day": 30
+    },
+    {
+      "name": "林义盛",
+      "group": "内部建设组",
+      "month": 10,
+      "day": 2
+    },
+    {
+      "name": "倪叶恒",
+      "group": "总校培训组",
+      "month": 10,
+      "day": 3
+    },
+    {
+      "name": "王殿禾",
+      "group": "总校培训组",
+      "month": 10,
+      "day": 8
+    },
+    {
+      "name": "刘秉州",
+      "group": "总校培训组",
+      "month": 10,
+      "day": 26
+    },
+    {
+      "name": "李舒悦",
+      "group": "宣介联络组",
+      "month": 11,
+      "day": 1
+    },
+    {
+      "name": "钟名汉",
+      "group": "内部建设组",
+      "month": 11,
+      "day": 13
+    },
+    {
+      "name": "刘科铃",
+      "group": "内部建设组",
+      "month": 11,
+      "day": 18
+    },
+    {
+      "name": "邓棋丹",
+      "group": "宣介联络组",
+      "month": 11,
+      "day": 18
+    },
+    {
+      "name": "钟紫涵",
+      "group": "宣介联络组",
+      "month": 11,
+      "day": 19
+    },
+    {
+      "name": "苏圣然",
+      "group": "分校考评组",
+      "month": 11,
+      "day": 27
+    },
+    {
+      "name": "廖凯星",
+      "group": "总校培训组",
+      "month": 12,
+      "day": 24
+    },
+    {
+      "name": "金佳慧",
+      "group": "分校考评组",
+      "month": 12,
+      "day": 26
+    }
+  ],
+  "version": "1ea852a6626b918a",
+  "updatedAt": "2026-09-22T11:46:41.939156+00:00"
+}

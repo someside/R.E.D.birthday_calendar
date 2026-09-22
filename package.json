@@ -1,0 +1,6 @@
+{
+  "name": "red-birthday-calendar",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/calendar.test.mjs" }
+}

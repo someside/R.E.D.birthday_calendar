@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#a82c3d">
+  <meta name="description" content="R.E.D. 部门成员生日日历，按职能组查看每一个值得记住的日子。">
+  <title>R.E.D. · 生日日历</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="masthead">
+      <div class="identity"><span class="wordmark">R.E.D<span class="period">.</span></span><span class="divider"></span><span class="department">成员生日日历</span></div>
+      <span class="edition">BIRTHDAY CALENDAR</span>
+    </header>
+    <section class="intro"><div><p class="eyebrow">一起记住，每一个特别的日子</p><h1>生日有期，陪伴常在<span>。</span></h1></div><div class="month-count"><strong id="month-count">—</strong><span>位成员本月过生日</span></div></section>
+    <section class="filters" aria-label="职能组筛选">
+      <div class="filter-heading"><span>职能组</span><div><button id="all" class="text-button">全选</button><span class="slash">/</span><button id="none" class="text-button">清空</button></div></div>
+      <div id="groups" class="chips"></div>
+    </section>
+    <section class="calendar-section" aria-label="生日日历">
+      <div class="toolbar"><div class="month-heading"><h2 id="month-title">加载中</h2><span id="month-en"></span></div><div class="navigation"><div class="selects"><label><span class="sr-only">年份</span><select id="year"></select></label><label><span class="sr-only">月份</span><select id="month"></select></label></div><button id="today" class="today-button">本月</button><div class="arrows"><button id="prev" aria-label="上一月">‹</button><button id="next" aria-label="下一月">›</button></div></div></div>
+      <div id="load-error" role="alert" hidden></div>
+      <div class="weekdays" aria-hidden="true"><span>周一</span><span>周二</span><span>周三</span><span>周四</span><span>周五</span><span>周六</span><span>周日</span></div>
+      <div id="calendar" class="calendar" role="group" aria-label="选择日期查看生日"></div>
+      <div class="calendar-note"><span><i class="today-dot"></i>今天</span><span id="selection-note" aria-live="polite"></span></div>
+    </section>
+    <section class="agenda" aria-labelledby="agenda-title"><div class="agenda-heading"><h2 id="agenda-title">本月生日</h2><button id="show-month" class="text-button" hidden>查看整月</button><span id="agenda-count"></span></div><div id="agenda-list"></div></section>
+    <footer><span>R.E.D. <span class="footer-dot">·</span> 每一份陪伴，都值得纪念</span><span id="updated" role="status">正在读取生日数据…</span></footer>
+    <noscript>请启用浏览器 JavaScript 以查看日历和使用筛选功能。</noscript>
+  </main>
+</body>
+</html>
